@@ -1,0 +1,12 @@
+# Build output
+build/
+out/
+
+# Gradle
+.gradle/
+
+# Kotlin
+.kotlin/
+
+# IntelliJ
+.idea/
